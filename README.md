@@ -25,6 +25,6 @@ Basic3D
 
 ##Progress(进展)
 
-标量构成了**向量**([B3D::Vec3](https://github.com/pezy/Basic3D/Vec3.h)), 向量的线性变换需要**矩阵**.
+标量构成了**向量**([B3D::Vec3](https://github.com/pezy/Basic3D/blob/master/Vec3.h)), 向量的线性变换需要**矩阵**.
 
 未完待续.
